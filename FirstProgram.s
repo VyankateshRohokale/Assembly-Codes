@@ -11,18 +11,10 @@ mov rdi, 1
 	mov rdx, 28
 	syscall
 
-
-
-
-
-
 	mov rax, 60
 	mov rdi, 69
 
-
-
 	syscall
-
 
 hello_world:
 	.asciz "Jay Shree Krishn\n"

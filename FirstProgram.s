@@ -3,8 +3,6 @@
 
 _start:
 	
-	// for writing
-
 	mov rax, 1
 mov rdi, 1
 	lea rsi, [hello_world]
